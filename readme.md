@@ -24,3 +24,4 @@ This is a collection of potential project names containing the word Smoke - a re
 - Rum and Smoke
 - Smoking Hazard
 - Go Smoke Go Broke
+- Smoke and Dagger
