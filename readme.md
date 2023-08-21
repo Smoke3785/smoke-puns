@@ -22,6 +22,8 @@ This is a collection of potential project names containing the word Smoke - a re
 - Where there's Smoke there's fire
   - Where there's Smoke
   - No Smoke Without Flames (is this a thing?)
+- Smoke shop
+- Cigar smoke
 
 ## Puns
 
@@ -34,3 +36,4 @@ This is a collection of potential project names containing the word Smoke - a re
   - Unequally Smoked
   - Do not be unequally Smoked
   - Do not be Smoked together with unbelievers
+- Besmoke
